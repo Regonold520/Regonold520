@@ -17,10 +17,10 @@
 
 <br clear="left">
 
-<h3 align="left">Languages I Use:<h3>
+<h3 align="center">Languages I Use:<h3>
 
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="45" alt="Lua"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="45" alt="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="45" alt="C#"/>
