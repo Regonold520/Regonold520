@@ -10,7 +10,7 @@
 
   <p>
     I love working in high level engines like Godot
-    But I also like the control of a lower framework like LÖVE2D,
+    but I also like the control of a lower framework like LÖVE2D,
     I primarily use Lua but like to use C++ and other languages at times
   </p>
 </div>
